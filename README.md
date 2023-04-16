@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello/Olá
 
 - My name is Pablo Rodrigues de Oliveira
 - I have 19 years old
