@@ -4,12 +4,12 @@
 - I have 19 years old
 - Student at Senai-AL
 
-# Main Skills:
+### Main Skills:
 - CSS3
 - HTML5
 - GIT
 
-# I'm studying at the moment:
+### I'm studying at the moment:
 - JavaScript
 
 <!--
