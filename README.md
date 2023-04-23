@@ -7,7 +7,6 @@
 ### Main Skills:
 - CSS3
 - HTML5
-- GIT
 
 ### I'm studying at the moment:
 - JavaScript
