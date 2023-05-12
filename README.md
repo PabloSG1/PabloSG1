@@ -1,4 +1,5 @@
 ### Olá, meu nome é Pablo
+- 📨: pabloxt200@gmail.com
 ### Main Skills:
 - CSS3
 - HTML5
