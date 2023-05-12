@@ -1,5 +1,5 @@
 ### Olá, meu nome é Pablo
-- 📨: pabloxt200@gmail.com
+- E-mail📨: pabloxt200@gmail.com
 ### Principais habilidades:
 - CSS3
 - HTML5
