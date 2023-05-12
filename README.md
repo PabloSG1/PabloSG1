@@ -1,10 +1,10 @@
 ### Olá, meu nome é Pablo
 - 📨: pabloxt200@gmail.com
-### Main Skills:
+### Principais habilidades:
 - CSS3
 - HTML5
 
-### I'm studying at the moment:
+### Estou estudando:
 - JavaScript
 
 <div align="center">  
