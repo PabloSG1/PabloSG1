@@ -1,9 +1,4 @@
-### Hello/Olá
-
-- My name is Pablo Rodrigues de Oliveira
-- I have 19 years old
-- Student at Senai-AL
-
+### Olá, meu nome é Pablo
 ### Main Skills:
 - CSS3
 - HTML5
