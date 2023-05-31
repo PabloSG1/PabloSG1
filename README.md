@@ -1,10 +1,10 @@
-### Olá, meu nome é Pablo Rodrigues
+### *Olá, meu nome é Pablo Rodrigues*
 - *E-mail📨: pabloxt200@gmail.com*
-### Principais habilidades:
+### *Principais habilidades:*
 - *CSS3*
 - *HTML5*
 
-### Estou estudando:
+### *Estou estudando:*
 - *JavaScript*
 
 <div align="center">  
