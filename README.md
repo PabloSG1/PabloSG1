@@ -3,6 +3,7 @@
 ### *Principais habilidades:*
 - *CSS3*
 - *HTML5*
+- *GIT*
 
 ### *Estou estudando:*
 - *JavaScript*
